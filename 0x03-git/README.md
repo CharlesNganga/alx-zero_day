@@ -1,1 +1,1 @@
-git project readme
+Git lesson readme
